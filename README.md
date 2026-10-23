@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱
+# 𝗛𝗲𝗹𝗹𝗼!
 
 ### I'm Blurry Shady. I'm a full-stack developer, UI/UX designer and owner of Ruucen. My projects:
 1. 🌟 [Ruucen/AEO Analyzer](https://www.ruucen.com) a site to learn how much it is visible by AI agents and see how organized the site is. My first SaaS project. It has pro and business subscription.
